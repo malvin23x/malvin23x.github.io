@@ -1,0 +1,12 @@
+body {
+    background-image:url(pexels-pixabay-50594\ -\ Salin.jpg) ;
+    background-size: cover;
+}
+.card{
+    width: 300px;
+    border-spacing: 300px;
+    border-top-left-radius: 100px;
+   position: static;
+   
+    
+}
